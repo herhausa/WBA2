@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Webbasierte Anwendungen 2 Praktikum Phase 1 Aufgabe 2 a Gruppenanmeldung Schlagzeug -->
+
+<Anmeldung>
+	<Gruppe id=gruppe1>
+		<Gruppenleiter id=person01>
+			<Vorname>Sandra</Vorname>
+			<Nachname>Herhaus</Nachname>
+			<Email>hab@ich.net</Email>
+			<Geburtsdatum>
+				<Tag>03</Tag>
+				<Monat>05</Monat>
+				<Jahr>1990</Jahr>
+			</Geburtsdatum>
+			<Erfahrung>Amateur</Erfahrung>
+			<Schlagzeug>nicht vorhanden</Schlagzeug>
+			<Anmerkungen>Ohrstoepsel dabei? Wir sind so schlecht!</Anmerkungen>
+		</Gruppenleiter>
+		
+		<Person id=person02>
+			<Vorname>Karl-Heinz</Vorname>
+			<Nachname>Gedoens</Nachname>
+			<Email>hab@ich_auch.net</Email>
+			<Geburtsdatum>
+				<Tag>25</Tag>
+				<Monat>01</Monat>
+				<Jahr>1945</Jahr>
+			</Geburtsdatum>
+			<Erfahrung>Profi</Erfahrung>
+			<Schlagzeug>vorhanden</Schlagzeug>
+		</Person>
+		
+		<Person id=person03>
+			<!-- Hier weitere Personeneingaben moeglich... -->
+		</Person>
+	</Gruppe>
+	
+	<Gruppe id=gruppe2>
+		<!-- Hier weitere Gruppeneingaben moeglich... -->
+	</Gruppe>
+</Anmeldung>
