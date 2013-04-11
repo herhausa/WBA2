@@ -1,0 +1,46 @@
+{
+	"Anmeldung":{
+		"Gruppe":{
+			"id":"gruppe1",
+			"Gruppenleiter":{
+				"Vorname":"Sandra",
+				"Nachname":"Herhaus",
+				"Email":"hab@ich.net",
+				"Geburtsdatum":{
+					"Tag":"03",
+					"Monat":"05",
+					"Jahr":"1990",
+					},
+				"Erfahrung":"Amateur",
+				"Schlagzeug":"nicht vorhanden",
+				"Anmerkungen":"Ohrstoepsel dabei? Wir sind so schlecht!",
+				},
+				
+			"Person":{
+				"id":"person02",
+				"Vorname":"Karl-Heinz",
+				"Nachname":"Gedoens",
+				"Email":"hab@ich_auch.net",
+				"Geburtsdatum":{ 
+					"Tag":"25",
+					"Monat":"02",
+					"Jahr":"1945",
+					},
+				"Erfahrung":"Profi",
+				"Schlagzeug":"vorhanden",
+				},
+				
+			"Person":{
+				"id":"person03",
+				
+				#...
+			},		
+		
+		 },
+		 
+		"Gruppe":{
+			"id":"gruppe2"
+			#...
+		},
+	},
+}

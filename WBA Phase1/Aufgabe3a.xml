@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Rezepte>
+	<Rezept id="01">
+	<Titel>Lenchen's Schokoladenkuchen</Titel>
+	<Zutaten>	
+		<Zutat>
+			<Zutat_Menge>200</Zutat_Menge>
+			<Zutat_Einheit>g</Zutat_Einheit>
+			<Zutat_Name>Butter</Zutat_Name>
+		</Zutat>
+		<Zutat>
+			<Zutat_Menge>200</Zutat_Menge>
+			<Zutat_Einheit>g</Zutat_Einheit>
+			<Zutat_Name>Zucker</Zutat_Name>
+		</Zutat>
+		<Zutat>
+			<Zutat_Menge>200</Zutat_Menge>
+			<Zutat_Einheit>g</Zutat_Einheit>
+			<Zutat_Name>Schokolade, Blockschokolade</Zutat_Name>
+		</Zutat>
+		<Zutat>
+			<Zutat_Menge>120</Zutat_Menge>
+			<Zutat_Einheit>g</Zutat_Einheit>
+			<Zutat_Name>Mehl</Zutat_Name>
+		</Zutat>
+		<Zutat>
+			<Zutat_Menge>1/2</Zutat_Menge>
+			<Zutat_Einheit>TL</Zutat_Einheit>
+			<Zutat_Name>Backpulver</Zutat_Name>
+		</Zutat>
+		<Zutat>
+			<Zutat_Menge>1</Zutat_Menge>
+			<Zutat_Einheit>Pkt</Zutat_Einheit>
+			<Zutat_Name>Vanillezucker</Zutat_Name>
+		</Zutat>
+		<Zutat>
+			<Zutat_Menge>4</Zutat_Menge>
+			<Zutat_Einheit></Zutat_Einheit>
+			<Zutat_Name>Eier</Zutat_Name>
+		</Zutat>
+	
+	</Zutaten>
+	<Zubereitung>
+		<Arbeitszeit>ca. 1Std</Arbeitszeit>
+		<Schwierigkeitsgrad>normal</Schwierigkeitsgrad>
+		<Brennwert>295 kcal</Brennwert>
+		<Beschreibung>Butter und Schokolade im Wasserbad schmelzen. 
+			Eier trennen. Eiweiß steif schlagen. Eigelbe, Zucker und Vanillezucker verrühren. 
+			Geschmolzene Butter-Schokomasse hinzufügen und mischen. 
+			Mehl mit dem Backpulver in die Masse sieben und zum Schluss die steifen 
+			Eiweiße vorsichtig unterheben. 
+			In eine gut gefettete Form geben. 
+			Bei 180°Grad 40 – 50 Minuten backen.</Beschreibung>
+	</Zubereitung>
+	
+	<Kommentar id="001">
+		<Benutzername>swieselchen</Benutzername>
+		<Zeitstempel>
+			<Tag>07</Tag>
+			<Monat>02</Monat>
+			<Jahr>2002</Jahr>
+			<Uhrzeit>18:49</Uhrzeit>
+		</Zeitstempel>
+		<Text>Habe Deinen Kuchen gestern gebacken 
+			(kleine Abwandlung: statt Blockschokolade hatte ich nur Kuvertüre, 
+			zartbitter und ich habe noch etwas Rumaroma und eine Prise Salz dazugegeben) 
+			mein LAG war total begeistert. Ich übrigends auch, super Rezept.</Text>
+	</Kommentar>
+	
+	<Kommentar id="002">
+		<!-- Weitere Kommentare dieser Seite -->
+	</Kommentar>
+	</Rezept>
+</Rezepte>
